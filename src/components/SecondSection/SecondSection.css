@@ -1,0 +1,21 @@
+.second-section{
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.second-image-container{
+    flex:0.55;
+    background-size: cover;
+}
+
+.second-section-heading{
+   box-shadow: 1px solid #fef8f5;
+}
+
+.second-section-heading h1{
+    padding-top:5rem;
+    margin-right:5rem;
+    color:rgba(0, 0, 0, 0.692);
+}
